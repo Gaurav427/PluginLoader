@@ -4,7 +4,7 @@
 		"force_update": false
 	},
 	"plugin": {
-		"version": "1.1",
+		"version": "2.1",
 		"name": "KMODsLoader",
 		"url": "https://github.com/kp7742/PluginLoader/blob/main/release/app-debug.apk?raw=true"
 	}
